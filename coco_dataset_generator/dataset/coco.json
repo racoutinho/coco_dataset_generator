@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sailing.jpg",
+      "width": 450,
+      "height": 338
+    }
+  ],
+  "type": "instances",
+  "annotations": [
+    {
+      "segmentation": [[
+        221,
+        59,
+        221,
+        228,
+        329,
+        228,
+        329,
+        59
+      ]],
+      "area": 18252,
+      "iscrowd": 0,
+      "ignore": 0,
+      "image_id": 1,
+      "bbox": [
+        221,
+        59,
+        108,
+        169
+      ],
+      "category_id": 1,
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "supercategory": "none",
+      "id": 1,
+      "name": "sail"
+    }
+  ]
+}
